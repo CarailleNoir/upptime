@@ -4,21 +4,21 @@
     "url": "187.124.42.17",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bedrock-connect-dns",
-    "status": "down",
-    "uptime": "96.96%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "96.96%",
+    "status": "up",
+    "uptime": "96.02%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "96.02%",
+    "uptimeYear": "96.02%",
     "time": 121,
-    "timeDay": 0,
+    "timeDay": 119,
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-10-25": 52,
       "2026-10-24": 42,
-      "2026-10-29": 196
+      "2026-10-29": 290
     }
   }
 ]
